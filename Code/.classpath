@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="DB_RMI/src"/>
+	<classpathentry kind="lib" path="DB_RMI/lib/postgresql-42.1.1.jar"/>
+	<classpathentry kind="lib" path="postgresql-42.1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/postgresql-42.1.1.jar"/>
+	<classpathentry kind="output" path="DB_RMI/bin"/>
+</classpath>
